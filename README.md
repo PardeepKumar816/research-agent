@@ -44,7 +44,7 @@ Give it any research topic. The agent autonomously:
 ## Run locally
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/research-agent.git
+git clone https://github.com/PardeepKumar816/research-agent.git
 cd research-agent
 
 python -m venv venv

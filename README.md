@@ -1,7 +1,7 @@
 # ResearchAgent 🔬
 ### Autonomous AI research agent with human-in-the-loop — powered by LangGraph + Groq
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](YOUR_STREAMLIT_URL)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://research-agent-free.streamlit.app/)
 
 
 ## What it does

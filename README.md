@@ -3,8 +3,6 @@
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](YOUR_STREAMLIT_URL)
 
-## Demo
-![ResearchAgent Demo](demo.gif)
 
 ## What it does
 Give it any research topic. The agent autonomously:
@@ -46,7 +44,7 @@ Give it any research topic. The agent autonomously:
 ## Run locally
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/research-agent.git
+git clone https://github.com/PardeepKumar816/research-agent.git
 cd research-agent
 
 python -m venv venv

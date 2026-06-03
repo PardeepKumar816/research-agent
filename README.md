@@ -3,8 +3,6 @@
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](YOUR_STREAMLIT_URL)
 
-## Demo
-![ResearchAgent Demo](demo.gif)
 
 ## What it does
 Give it any research topic. The agent autonomously:
